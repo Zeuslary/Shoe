@@ -6,7 +6,7 @@
 -- Thời gian đã tạo: Th6 21, 2023 lúc 04:04 AM
 -- Phiên bản máy phục vụ: 10.4.28-MariaDB
 -- Phiên bản PHP: 8.2.4
--- Dao Thi Ngoc Chiem Nguyen Van Hoang
+-- Dao Thi Ngoc Chiem Nguyen Van Hoang Nguyen Van Quy
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 START TRANSACTION;
