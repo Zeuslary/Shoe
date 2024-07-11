@@ -1,2 +1,2 @@
 # Shoe
-Project shop shoe by Team 4
+Project shop make by Team 4
